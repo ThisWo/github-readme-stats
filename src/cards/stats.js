@@ -49,6 +49,7 @@ const LONG_LOCALES = [
   "uk-ua",
   "uz",
   "zh-tw",
+  "zh-cn",
 ];
 
 /**
